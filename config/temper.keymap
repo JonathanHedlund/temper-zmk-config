@@ -390,8 +390,8 @@
 
         gaming_mod {
             bindings = <
-&kp NUMBER_1  &kp NUMBER_2  &trans     &kp NUMBER_3  &kp NUMBER_4  &tog 0  &trans  &trans  &trans  &trans
-&kp M         &trans        &trans     &trans        &kp LEFT_ALT  &trans  &trans  &trans  &trans  &trans
+&kp NUMBER_1  &kp NUMBER_2  &trans     &kp NUMBER_3  &kp NUMBER_4  &to 0   &trans  &trans  &trans  &trans
+&kp M         &trans        &trans     &trans        &kp O         &trans  &trans  &trans  &trans  &trans
 &kp J         &kp H         &kp COMMA  &kp PERIOD    &kp LCTRL     &trans  &trans  &trans  &trans  &trans
                             &trans     &kp LEFT_ALT  &trans        &trans  &trans  &trans
             >;
